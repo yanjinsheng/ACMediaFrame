@@ -20,6 +20,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'ACAlertController'
   s.dependency 'TZImagePickerController'
-  s.dependency 'MWPhotoBrowser', :git => 'https://github.com/yanjinsheng/MWPhotoBrowser.git', :commit => '880d5fb6fcfded83f1a2cb7c9d43d6b4052d8cce'
 
 end
